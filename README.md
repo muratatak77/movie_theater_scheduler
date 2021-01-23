@@ -85,6 +85,10 @@ application up and running.
 		
 		  rspec spec/requests
 
+	- Result 
+	
+	
+	![alt text](https://user-images.githubusercontent.com/4965162/105568705-5c935d00-5cf0-11eb-85ca-1c23ea94bb5e.png)
 
 * Services (job queues, cache servers, search engines, etc.)
 	- None
