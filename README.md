@@ -5,6 +5,27 @@ Solution Leetcode Easy
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
+
+- This program start from MoviesController class 
+	
+	- movie_theater_scheduler⁩/⁨app⁩/⁨controllers⁩/movies_controller.rb
+
+- The MovieController class create movie list. 
+	
+	- movie_theater_scheduler⁩/app⁩/models⁩/movie.rb
+
+- The movie list goes to the Operation class
+	 
+	 - movie_theater_scheduler⁩/app⁩/models⁩/operation.rb
+
+- The Operation class makes our need film hours list
+
+- Main progress will be operation class and its subclasses.
+
+- Return MovieController and write hours list.
+
+
+
 Things you may want to cover:
 
 * Ruby version
