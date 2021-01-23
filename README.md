@@ -1,11 +1,9 @@
-# leeetcode
-Solution Leetcode Easy
 # README
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
-# WORKING CYCLE
+# Working Cycle
 
 - This program start from MoviesController class 
 	
@@ -26,8 +24,7 @@ application up and running.
 - Return MovieController and write hours list.
 
 
-
-Things you may want to cover:
+# Things you may want to cover:
 
 * Ruby version
 	2.6.4
