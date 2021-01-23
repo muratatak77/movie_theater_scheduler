@@ -4,14 +4,14 @@ class MoviesController < ApplicationController
     movies_params = params[:_json].as_json
     movie_list = []
     movies_params.each do |prm|
-   		title = prm["title"]
+   	  title = prm["title"]
       year = prm["year"]
-   		rated = prm["rated"]
-   		duration = prm["duration"]
+   	  rated = prm["rated"]
+   	  duration = prm["duration"]
       if title.present? and duration.to_i > 0
    		 movie = Movie.new(title, year, rated, duration)
       end
-   		movie_list << movie if movie.present? and movie.title.present?
+   	  movie_list << movie if movie.present? and movie.title.present?
    	end
     
     return [] if movie_list.nil? || movie_list.size == 0
