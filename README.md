@@ -5,6 +5,10 @@ application up and running.
 
 # Working Cycle
 
+- You can run with this rspec code from the console :
+
+		rspec spec/requests
+
 - This program start from MoviesController class 
 	
 		movie_theater_scheduler⁩/⁨app⁩/⁨controllers⁩/movies_controller.rb
