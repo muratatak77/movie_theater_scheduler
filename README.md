@@ -5,18 +5,19 @@ Solution Leetcode Easy
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
+# WORKING CYCLE
 
 - This program start from MoviesController class 
 	
-	- movie_theater_scheduler⁩/⁨app⁩/⁨controllers⁩/movies_controller.rb
+		movie_theater_scheduler⁩/⁨app⁩/⁨controllers⁩/movies_controller.rb
 
 - The MovieController class create movie list. 
 	
-	- movie_theater_scheduler⁩/app⁩/models⁩/movie.rb
+		movie_theater_scheduler⁩/app⁩/models⁩/movie.rb
 
 - The movie list goes to the Operation class
 	 
-	 - movie_theater_scheduler⁩/app⁩/models⁩/operation.rb
+		movie_theater_scheduler⁩/app⁩/models⁩/operation.rb
 
 - The Operation class makes our need film hours list
 
