@@ -1,0 +1,26 @@
+[
+    {
+        "title":"There’s Something About Mary",
+        "year":1998,
+        "rated":"R",
+        "duration":134
+    },
+    {
+        "title":"The Imitation Game",
+        "year":2014,
+        "rated":"PG-13",
+        "duration":114
+    },
+    {
+        "title":"The Hateful Eight",
+        "year":2015,
+        "rated":"R",
+        "duration":187
+    },
+    {
+        "title":"Liar Liar",
+        "year":1997,
+        "rated":"PG-13",
+        "duration":86
+    }
+]
