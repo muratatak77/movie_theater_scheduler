@@ -2,6 +2,7 @@ require 'date_utils'
 module WorkingHours
 	extend ActiveSupport::Concern
 
+	
 	def get_weekday_hours()
 		opening_hour = DateUtils.str_to_epoch("11:00:00 AM")
 		closing_hour = DateUtils.str_to_epoch("11:00:00 PM")
