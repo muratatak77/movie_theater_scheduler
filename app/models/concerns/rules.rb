@@ -6,7 +6,7 @@ module Rules
 
 
 =begin
- 	we can find  how many there are max movie could watch in a day.
+  we can find  how many there are max movie could watch in a day.
   we can iterate easier. We can find last and first video easy way
   Logic
   we can start to extract default movie spend time from our total daily working time.
