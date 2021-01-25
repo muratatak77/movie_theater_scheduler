@@ -4,6 +4,7 @@ require 'enums'
 module Rules
 	extend ActiveSupport::Concern
 
+
 =begin
  	we can find  how many there are max movie could watch in a day.
   we can iterate easier. We can find last and first video easy way
